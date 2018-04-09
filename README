@@ -1,8 +1,9 @@
-A basic machine learning project in which I tried to find out whehter
+A basic machine learning project in which I tried to find out whether
 or not a majority of popular manga's featured a woman on the cover.
 
 I used Beautiful Soup API to scrape Crunchyroll for images
 and Clarifai API on those images to classify whether or not the images
 contained images of women.
 
-I found that approximately 57% of popular mangas featured a girl.
+I found that approximately 57% of popular mangas had a woman as the main
+subject.
